@@ -1,2 +1,2 @@
 # CSS
-CSS - Site para a Extensão Comunitária
+CSS usado para estilizar as paginas: Curriculo, Sobre Nós e Index
